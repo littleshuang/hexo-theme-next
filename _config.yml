@@ -996,3 +996,15 @@ vendors:
 css: css
 js: js
 images: images
+
+# Add by Lilac
+
+# Set the background animation
+# Canvas-nest
+canvas_nest: true
+# three_waves
+three_waves: false
+# canvas_lines
+canvas_lines: false
+# canvas_sphere
+canvas_sphere: false
