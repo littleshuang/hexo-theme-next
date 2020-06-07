@@ -203,6 +203,7 @@ links_settings:
 
 links:
   #Title: http://yoursite.com
+  我的物品原型图: http://47.101.40.53:4000/prototype/mystuff/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
