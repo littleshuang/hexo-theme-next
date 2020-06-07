@@ -60,5 +60,10 @@
   {%- if theme.pjax %}
     </div>
   {%- endif %}
+
+  <!-- 页面点击小红心 -->
+  {% if theme.clicklove %}
+    <script type="text/javascript" src="/js/clicklove.js"></script>
+  {% endif %}
 </body>
 </html>

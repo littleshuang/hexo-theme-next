@@ -1022,3 +1022,6 @@ post_wordcount:
   totalcount: false   # 网站 字数统计
   separated_meta: true
 
+# 显示页面红心
+clicklove: true
+
