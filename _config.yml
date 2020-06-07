@@ -177,9 +177,9 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  GitHub: https://github.com/littleshuang || github
-  # E-Mail: mailto:shuang_ouyang@163.com.com || envelope
-  简书: https://www.jianshu.com/u/44ded48be318 || heartbeat
+  GitHub: https://github.com/littleshuang || fab fa-github
+  # E-Mail: mailto:shuang_ouyang@163.com.com || fa fa-envelope
+  简书: https://www.jianshu.com/u/44ded48be318 || fa fa-heartbeat
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
