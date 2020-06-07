@@ -1008,3 +1008,7 @@ three_waves: false
 canvas_lines: false
 # canvas_sphere
 canvas_sphere: false
+
+# Add a phrase on the end of an article.
+passage_end_tag:
+  enabled: true
